@@ -1,0 +1,19 @@
+{
+  "name": "aflab03",
+  "version": "1.0.0",
+  "description": "Application framework module lab exercise are covered in this project.",
+  "main": "App.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/it21013928/AFLAB03.git"
+  },
+  "author": "Udesh Piyumantha",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/it21013928/AFLAB03/issues"
+  },
+  "homepage": "https://github.com/it21013928/AFLAB03#readme"
+}
